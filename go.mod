@@ -1,4 +1,4 @@
-module ddd
+module himaplus-api
 
 go 1.22.2
 

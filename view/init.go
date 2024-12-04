@@ -2,9 +2,9 @@ package view
 
 import (
 	"embed"
+	"himaplus-api/common/logging"
 	"html/template"
 	"io/fs"
-	"juninry-api/common/logging"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
